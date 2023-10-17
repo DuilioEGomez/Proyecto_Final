@@ -1,2 +1,2 @@
 # Proyecto_Final
-Proyecto Final, Tecnicatura Universitaria en Tecnologias de Programacion de la UPSO
+Proyecto Informatico, Tecnicatura Universitaria en Tecnologias de Programacion de la UPSO
